@@ -1,4 +1,20 @@
-# Basics
+# R Cheatsheet
+
+## Table Of Contents
+
+1. [Get and Set Directories](#Get-and-Set-Directories)
+1. [Vectors](#Vectors)
+1. [Relational and Logical Operators](#Relational-and-Logical-Operators)
+1. [if/else, switch](#if/else,-switch)
+1. [Strings](#Strings)
+1. [Factors](#Factors)
+1. [Data Frames](#Data-Frames)
+1. [Loops](#Loops)
+1. [Matrices](#Matrices)
+1. [Multidimensional Arrays](#Multidimensional-Arrays)
+1. [Functions](#Functions)
+1. [Error Handling](#Error-Handling)
+1. [Read Data](#Read-Data)
 
 ## Get and Set Directories
 
@@ -334,7 +350,7 @@ cubed(2)
 cubed(1:5)
 ```
 
-## Error handling
+## Error Handling
 
 ```r
 divide = function(dividend, divisor) {
